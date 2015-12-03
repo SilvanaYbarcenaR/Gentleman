@@ -54,4 +54,15 @@ footer .icon{
 	width:100%;
 
 }
-
+.a{
+	border-bottom: 1px solid gray;
+	margin:30px;
+	padding-bottom:30px;
+}
+.section-3 .button{
+	background:#FE2E64;
+	border-radius: 3px;
+	padding: 2px 6px;
+	color:white;
+	margin-left: 10px;
+}
