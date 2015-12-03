@@ -1,0 +1,57 @@
+body, html{
+	font-size: 11px !important;
+	font-family: 'Garamond', Arial, sans-serif!important;
+}
+.navbar-fixed-top, h2{
+	background:#2E2E2E;
+	line-height: 50px!important;
+}
+ul, h2{
+	margin:0!important;
+	padding: 0;
+}
+ul li{
+	padding: 0 10px;
+	list-style: none;
+}
+ul a:hover{
+	text-decoration: none;
+	color:#FE2E64;
+}
+.section-1, .section-2, .section-3{
+	margin-top: 80px;
+}
+.section-1 img{
+	width:100%;
+}
+.section-1 .button, .section-2 .button{
+	background:gray;
+	border-radius: 50px;
+	padding: 5px 15px;
+	color:white;
+}
+.section-2 .icon{
+	width: 15px;
+}
+.section-2{
+	margin-top: 40px;
+	padding-top: 40px;
+	border-top: 1px solid black;
+}
+footer .icon{
+	border-radius: 50%;
+	border:1px solid black;
+	width:10px;
+}
+.section-1 a:hover{
+	text-decoration: none;
+}
+.section-3{
+	background-color:#2E2E2E; 
+	margin-right: 0 !important;
+}
+.section-2 .col-6 .img{
+	width:100%;
+
+}
+
